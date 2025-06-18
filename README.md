@@ -1,4 +1,4 @@
-<img src="Thiago.gif" />
+<img src="Thiago Muniz.gif" />
 <div align="center">
 </div>
 
