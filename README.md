@@ -16,10 +16,10 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_logo_icon_169941.png" height="40" widht="40">
   <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" height="40" widht="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" widht="40" height="40">
-  
+  #
  </div>
 </br>
-#
+
  <div align="center">
   <a href="https://www.instagram.com/thk.muuniz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:erick.aguiar016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
