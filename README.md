@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAGp9GpdCGM/cOR9cNODsJdrhpd5iWCy2g/watch?utm_content=DAGp9GpdCGM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9ce88aa38e" width="100%" />
+  <img src="Thiago.gif" />
 </div>
 
 
