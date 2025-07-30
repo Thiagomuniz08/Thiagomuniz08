@@ -19,6 +19,19 @@
  </div>
 </br>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=erickaguiar06&show_icons=true&theme=gotham" alt="" />
+</div>
+
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/erickaguiar06?cardType=level&theme=gotham&preferLogin=false" alt="" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickaguiar06&layout=compact&theme=gotham&langs_count=20" alt="" />
+</div>
+
+
  <div align="center">
   <a href="https://www.instagram.com/thk.muuniz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:senaithiago13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
